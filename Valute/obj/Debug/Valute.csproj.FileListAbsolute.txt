@@ -1,0 +1,6 @@
+C:\Users\halfbloodprince\source\repos\Valute\Valute\bin\Debug\Valute.exe.config
+C:\Users\halfbloodprince\source\repos\Valute\Valute\bin\Debug\Valute.exe
+C:\Users\halfbloodprince\source\repos\Valute\Valute\bin\Debug\Valute.pdb
+C:\Users\halfbloodprince\source\repos\Valute\Valute\obj\Debug\Valute.csproj.CoreCompileInputs.cache
+C:\Users\halfbloodprince\source\repos\Valute\Valute\obj\Debug\Valute.exe
+C:\Users\halfbloodprince\source\repos\Valute\Valute\obj\Debug\Valute.pdb
